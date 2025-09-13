@@ -1,42 +1,42 @@
-<h1 align="center">👋 Salut, je suis Billy</h1>
+<h1 align="center">👋 Hi, I'm Bilal !</h1>
 <p align="center">
-  <b>Data Analyst | Data Engineering | IA</b>
+  <b>Data Analyst | Data Engineering | AI | Data Science</b>
 </p>
 
 ---
 
-### 🚀 À propos
-- 🎓 Ingénieur en Data Science & IA
-- 📊 Expérience en SQL, Power BI, Python
-- 🌍 Actuellement basé aux Émirats Arabes Unis
-- 🎯 Objectif : évoluer vers des rôles avancés en Data Engineering / IA
+### 🚀 About Me
+- 🎓 Engineer in Data Science & AI  
+- 📊 Experienced with Python, SQL, Power BI, Excel, Azure and others...  
+- 🌍 Currently based in the United Arab Emirates  
+- 🎯 Goal : exchange with the community, create and contribute to projects  
 
 ---
 
-### 🔗 Me retrouver
+### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tonlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bilal-selmi-a86964204/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tonmail@gmail.com">
+  <a href="mailto:selmi.bilal.bs@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tonprofil">
+  <a href="https://github.com/bilalselmi7">
     <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📂 Projets mis en avant
-- 📈 [Analyse de données pétrolières](https://github.com/tonprofil/projet1)  
-- 🤖 [Prédiction avec Machine Learning](https://github.com/tonprofil/projet2)  
-- 📊 [Dashboard Power BI interactif](https://github.com/tonprofil/projet3)
+### 📂 Featured Projects
+- 📈 [Oil Well Data Analysis](https://github.com/yourgithub/project1)  
+- 🤖 [Machine Learning Prediction Model](https://github.com/yourgithub/project2)  
+- 📊 [Interactive Power BI Dashboard](https://github.com/yourgithub/project3)  
 
 ---
 
-### ⚡ Stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonprofil&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonprofil&layout=compact&theme=dark" height="150"/>
-</p>
+### ⏳ Currently working on : 
+
+- 📊 Microsoft PowerBI PL-300 Certification
+- ☁️ Cloud Certification (Azure mainly)
+- 📡 More Personal Projects Coming
